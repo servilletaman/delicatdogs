@@ -1,0 +1,6 @@
+.fondo {
+    background-color: #272525;
+}
+
+.fa-map-marker:before {
+    content: "\f041"; }
